@@ -4,6 +4,9 @@ Learning C++ for ICT Hands On Examination
 ## setting up ide
 
 ### vscode (linux)
+sources: 
+- [brian_fracer](https://www.youtube.com/watch?v=BEJUdkPemYY&t=1s)
+- [vscode_docs](https://code.visualstudio.com/docs/languages/cpp)
 
 install compiler
 ```bash
